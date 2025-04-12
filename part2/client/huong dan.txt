@@ -1,0 +1,2 @@
+server chạy ở windows và phải link project đến thư viện ws2_32
+client phải chỉnh địa chỉ IP trong code giống với IP của máy server
